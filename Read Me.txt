@@ -1,0 +1,5 @@
+Read Me:
+Instructions to run
+1: Clone the repository 
+2: Download the datasets from the link and place them in the same folder
+3: Run the jupyter file
